@@ -1,24 +1,22 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![3](https://github.com/user-attachments/assets/2575c149-c389-47b8-bd5e-37fae50a5251)
+![4](https://github.com/user-attachments/assets/bafbd6ab-d1d8-4a0f-8647-8c9a14ff19aa)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/C6wALC0gAh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-До чего же мы несчастливы, царевны,
-Нам законом запрещается любить,
-В царских семьях уж таков порядок древний —
-По расчёту надо замуж выходить.<br><br>
+А я не хочу, не хочу по расчёту,
+А я по любви, по любви хочу.
+Свободу, свободу, мне дайте свободу,
+Я птицею ввысь улечу!<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![3](https://github.com/user-attachments/assets/32340491-8a75-47f4-a7db-43b21929dc01)
+![4](https://github.com/user-attachments/assets/bafbd6ab-d1d8-4a0f-8647-8c9a14ff19aa)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/zOOtxO9uVfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Do chego zhe my neschastlivy, carevny,
-Nam zakonom zapreshchaetsya lyubit',
-V carskih sem'yah uzh takov poryadok drevnij —
-Po raschyotu nado zamuzh vyhodit'.<br><br>
+A ya ne hochu, ne hochu po raschyotu,
+A ya po lyubvi, po lyubvi hochu.
+Svobodu, svobodu, mne dajte svobodu,
+YA pticeyu vvys' ulechu!<br><br>
 
-![1](https://github.com/user-attachments/assets/da0cc92c-7587-4596-92ca-61615435a122)
-![4](https://github.com/user-attachments/assets/bafbd6ab-d1d8-4a0f-8647-8c9a14ff19aa)
