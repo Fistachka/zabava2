@@ -2,7 +2,7 @@
 
 ![4](https://github.com/user-attachments/assets/bafbd6ab-d1d8-4a0f-8647-8c9a14ff19aa)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/C6wALC0gAh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Gr_TSCMQ6yM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 А я не хочу, не хочу по расчёту,
 А я по любви, по любви хочу.
@@ -13,7 +13,7 @@
 
 ![4](https://github.com/user-attachments/assets/bafbd6ab-d1d8-4a0f-8647-8c9a14ff19aa)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/zOOtxO9uVfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/l1EsD8BRtzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 A ya ne hochu, ne hochu po raschyotu,
 A ya po lyubvi, po lyubvi hochu.
