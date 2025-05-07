@@ -7,7 +7,10 @@
 А я не хочу, не хочу по расчёту,
 А я по любви, по любви хочу.
 Свободу, свободу, мне дайте свободу,
-Я птицею ввысь улечу!<br><br>
+Я птицею ввысь улечу!
+
+Предыдущий урок: stolbitsa.com/fistachka/zabava
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -18,5 +21,8 @@
 A ya ne hochu, ne hochu po raschyotu,
 A ya po lyubvi, po lyubvi hochu.
 Svobodu, svobodu, mne dajte svobodu,
-YA pticeyu vvys' ulechu!<br><br>
+YA pticeyu vvys' ulechu!
+
+Previous lesson: stolbitsa.com/fistachka/zabava
+<br><br>
 
