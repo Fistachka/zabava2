@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava2</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="Fistachka" repo="zabava3"/>
   <readme>
-    <ru>301121fed21247ffbe8fbf0d985ed19de645f2e00748fed429fb54a918bead9d</ru>
-    <en>38322218bf52ee782a3a58a64fca6d95d3bd2aa17d80bc0de1dbb1aca0cfad6b</en>
+    <ru>e37cc3775d6910c8430ab3ef17046ff078f624f1804c8189328c8eb6e040ae26</ru>
+    <en>f9b5a5d045c9c7e9b0c93882efd86649e41e1a2121498f16b67341fec621473d</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
